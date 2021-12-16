@@ -3,7 +3,7 @@
   "documentation": {
     "pages": [
       {
-        "src": "/docs/readme.md",
+        "src": "readme.md",
         "dest": "/my/new/dir/",
         "name": "Homepage",
         "homepage": true
