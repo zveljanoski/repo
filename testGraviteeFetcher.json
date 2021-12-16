@@ -3,14 +3,14 @@
   "documentation": {
     "pages": [
       {
-        "src": "readme.md",
-        "dest": "/my/new/dir/",
+        "src": "",
+        "dest": "",
         "name": "Homepage",
         "homepage": true
       },
       {
-        "src": "/docs/doc2.md",
-        "dest": "/my/new/dir/",
+        "src": "",
+        "dest": "",
         "name": "Business"
       }
     ]
