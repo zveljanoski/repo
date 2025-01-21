@@ -1,74 +1,14 @@
-{
-    "acb-type": [
-        {
-            "ID": "1",
-            "ReferenceDescription": "Unknown",
-            "SemanticDescription": "",
-            "IsActive": "1",
-            "APIv2ID": "0",
-            "APIv2Description": "Other",
-            "APIv1ID": "0",
-            "APIv1Description": "Unknown",
-            "LegacyID": "0",
-            "LegacyDescription": "Unknown",
-            "DPMID": "",
-            "DPMDescription": ""
-        },
-        {
-            "ID": "2",
-            "ReferenceDescription": "Current",
-            "SemanticDescription": "",
-            "IsActive": "1",
-            "APIv2ID": "1",
-            "APIv2Description": "",
-            "APIv1ID": "1",
-            "APIv1Description": "Current",
-            "LegacyID": "1",
-            "LegacyDescription": "Current",
-            "DPMID": "",
-            "DPMDescription": ""
-        },
-        {
-            "ID": "3",
-            "ReferenceDescription": "Savings",
-            "SemanticDescription": "",
-            "IsActive": "1",
-            "APIv2ID": "2",
-            "APIv2Description": "Savings",
-            "APIv1ID": "2",
-            "APIv1Description": "Savings",
-            "LegacyID": "2",
-            "LegacyDescription": "Savings",
-            "DPMID": "",
-            "DPMDescription": ""
-        },
-        {
-            "ID": "5",
-            "ReferenceDescription": "Bond",
-            "SemanticDescription": "",
-            "IsActive": "1",
-            "APIv2ID": "4",
-            "APIv2Description": "SaleOfProperty",
-            "APIv1ID": "4",
-            "APIv1Description": "Bond",
-            "LegacyID": "4",
-            "LegacyDescription": "Bond",
-            "DPMID": "",
-            "DPMDescription": ""
-        },
-        {
-            "ID": "6",
-            "ReferenceDescription": "Credit Card",
-            "SemanticDescription": "",
-            "IsActive": "1",
-            "APIv2ID": "5",
-            "APIv2Description": "Borrowings",
-            "APIv1ID": "5",
-            "APIv1Description": "Credit Card",
-            "LegacyID": "5",
-            "LegacyDescription": "Credit Card",
-            "DPMID": "",
-            "DPMDescription": ""
-        }
-    ]
-} 
+[
+  {
+    "key": 1,
+      "value": "https://north-europe.company.com/"
+  },
+  {
+    "key": 2,
+    "value": "https://north-europe.company.com/"
+  },
+  {
+    "key": 3,
+    "value": "https://south-asia.company.com/"
+  }
+]
