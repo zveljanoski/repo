@@ -1,7 +1,12 @@
 {
-  "ratings": {
-    "primary": 5,
-    "quality": 4,
-    "design": 5
+  "rating": {
+    "primary": {
+      "value": 3,
+      "max": 5
+    },
+    "quality": {
+      "value": 3,
+      "max": 7
+    }
   }
 }
