@@ -1,16 +1,3 @@
-[
-  {
-    "operation": "modify-overwrite-beta",
-    "spec": {
-      "fullName": "=split(' ',@(1,fullName))",
-      "name": "=firstElement(@(1,fullName))",
-      "lastName": "=lastElement(@(1,fullName))"
-    }
-  },
-  {
-    "operation": "remove",
-    "spec": {
-      "fullName": ""
-    }
-  }
-]
+{
+  "fullName": "Zlatko Veljanoski"
+}
